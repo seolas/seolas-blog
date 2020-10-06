@@ -13,23 +13,23 @@ Firefox 常用网站使用的默认图像不够明确时，可以自定义图像
 
 ### 步骤
 
-1. 登录网站 https://icons8.cn/ 搜索想要的图像名称，如 gmail
+1. 登录网站 https://icons8.cn/ 搜索想要的图像名称，如 Gmail
 
 2. 点击选择好的图像，点击【嵌入HTML】
 
-   ![图片.png](https://i.loli.net/2020/10/06/6wsNifKcbIQBMWJ.png)
+![图片.png](https://i.loli.net/2020/10/06/6wsNifKcbIQBMWJ.png)
 
 3. 拷贝图像地址
 
-   ![图片.png](https://i.loli.net/2020/10/06/WRnfAP6kIeJNCtZ.png)
+![图片.png](https://i.loli.net/2020/10/06/WRnfAP6kIeJNCtZ.png)
 
 4. 打开 Firefox 首页
 
-   ![图片.png](https://i.loli.net/2020/10/06/D4GSpZYkeAzgBV7.png)
+![图片.png](https://i.loli.net/2020/10/06/D4GSpZYkeAzgBV7.png)
 
 5. 粘贴到【自定义图像网址】，保存即可
 
-   ![图片.png](https://i.loli.net/2020/10/06/r9KPLjSZ2de3EIl.png)
+![图片.png](https://i.loli.net/2020/10/06/r9KPLjSZ2de3EIl.png)
 
 ### 自用
 
